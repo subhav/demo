@@ -3,3 +3,4 @@ Todo List
 
 - Work on Git tutorial.
 - Remember to include blatantly obvious typo.
+- Finnish, the git tutorial.
